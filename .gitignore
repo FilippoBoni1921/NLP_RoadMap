@@ -1,0 +1,9 @@
+# ignore all .text files
+
+*.txt
+.DS_Store
+Roadmap_link.txt
+
+#directories
+freecodecamp_spacy
+.venv
